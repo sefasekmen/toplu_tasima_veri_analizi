@@ -1,4 +1,4 @@
-# CSV dosyaları (çok büyük olabilir)
+# CSV dosyaları
 *.csv
 
 # Python cache ve egg dosyaları
