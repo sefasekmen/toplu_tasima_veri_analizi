@@ -7,8 +7,10 @@ Eylül 2024 verileri kullanarak İstanbul'un toplu taşıma sisteminin detaylı 
 - **Kaynak**: İstanbul Büyükşehir Belediyesi Açık Veri Portalı (İndirme linki: https://data.ibb.gov.tr/dataset/hourly-public-transport-data-set/resource/4546fb79-e598-4dc7-888b-626361110e37)
 - **Tarih Aralığı**: 1 - 10 Eylül 2024
 - **Toplam Kayıt**: 3.520.000 satır
-- **Toplam Yolcu**: 39.305.039 kişi
+- **Toplam Yolcu**: 39.305.039 kişi (toplam biniş/işlem sayısı)
 - **Ortalama Günlük Yolcu**: 3.930.504 kişi
+
+> **📌 Not**: 39 milyon rakamı benzersiz kişi sayısı değil, toplam geçiş/biniş sayısıdır. Aynı kişi her binişte (sabah işe gidiş, öğle aktarma, akşam eve dönüş vb.) ayrı ayrı sayılmaktadır. Örneğin 1 kişi 10 gün boyunca her gün gidip gelirse 20 geçiş olarak kaydedilir.
 
 ## Analiz Bulguları
 
