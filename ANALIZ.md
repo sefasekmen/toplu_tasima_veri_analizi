@@ -39,9 +39,11 @@ Yani günler eşit sayıda temsil edilmemiştir! Pazar'ın neden daha yoğun gö
 
 ---
 
-![Grafik 3: Taşımacılık Türü Pazar Payı](grafik_analizi/3_tasimacilim_turu_pazar.png)
+
 
 ## Grafik 3: Taşımacılık Türü Pazar Payı (Pie Chart)
+
+![Grafik 3: Taşımacılık Türü Pazar Payı](grafik_analizi/3_tasimacilim_turu_pazar.png)
 
 Daire grafiği üçün taşımacılık türünün oransal dağılımını göstermektedir:
 - Otobüs (OTOYOL): %53.7 - Açık mavi bölüm
@@ -52,11 +54,11 @@ Daire grafiği üçün taşımacılık türünün oransal dağılımını göste
 
 **Yorum:** İstanbul'un toplu taşıması otobüs ve raylı sistem arasında belki de ideale yakın bir denge içindedir. Deniz taşımacılığı nişe bir hizmettir ve buna uygun pay aldığını söyleyebiliriz.
 
-![Grafik 4: Taşımacılık Türü × Saat Haritası](grafik_analizi/4_tasimacilim_saat_haritasi.png)
-
 ---
 
 ## Grafik 4: Taşımacılık Türü × Saat Isı Haritası (Heatmap)
+
+![Grafik 4: Taşımacılık Türü × Saat Haritası](grafik_analizi/4_tasimacilim_saat_haritasi.png)
 
 Bu grafik en karmaşık ama en bilgilendici grafiklerden biridir. Her küçük karesi bir saat-taşımacılık kombinasyonunun yolcu sayısını temsil eder.
 
@@ -69,13 +71,13 @@ Bu grafik en karmaşık ama en bilgilendici grafiklerden biridir. Her küçük k
 - RAYLI satırı sabah saatinde daha kırmızı - işçiler metroyu tercih ediyor
 - DENİZ satırı neredeyse hiç kırmızı değildir - beklenen bir durum
 
-![Grafik 5: Hafta İçi vs Hafta Sonu](grafik_analizi/5_hafta_karsilastirma.png)
-
 **Yorum:** Sabah hızlı ve güvenilir olan raylı sistemi daha cazip hale gelirken, akşam saatleri daha gevşek davranışlar görülmektedir. Vapur turları öğleden sonra yoğun olabilir.
 
 ---
 
 ## Grafik 5: Hafta İçi vs Hafta Sonu Karşılaştırması
+
+![Grafik 5: Hafta İçi vs Hafta Sonu](grafik_analizi/5_hafta_karsilastirma.png)
 
 İki bar, hafta içi (mavi) ve hafta sonu (pembe) toplam yolcu sayısını göstermektedir.
 
@@ -87,8 +89,6 @@ Beklentimiz tam tersiydi. Normalde haftasonu insanlar alışveriş, eğlence vs.
 1. Veri dengesizliği (yukarıda bahsedildiği gibi)
 2. Eylül başı mı? Okullar yeni başlıyor, işler hızlanıyor?
 3. Kurban Bayramı etkisi (verilerin tarihleriyle kontrol edilmeli)
-![Grafik 6: En Yoğun 10 İlçe](grafik_analizi/6_top10_ilce.png)
-
 4. Metodolojik: "Hafta sonu" etiketlemesi doğru mu?
 
 **Yorum:** Bu bulgu, toplu taşımacılık planlamasında tüm günlerin dikkate alınması gerektiğini göstermektedir.
@@ -96,6 +96,8 @@ Beklentimiz tam tersiydi. Normalde haftasonu insanlar alışveriş, eğlence vs.
 ---
 
 ## Grafik 6: En Yoğun 10 İlçe
+
+![Grafik 6: En Yoğun 10 İlçe](grafik_analizi/6_top10_ilce.png)
 
 Yatay bar chart'ta, İstanbul'un en çok taşıdığı 10 ilçe gösterilmektedir.
 
@@ -106,8 +108,6 @@ Bakırköy'ün dominansı %32.4 ile çarpıcıdır. İkinci sıra Fatih'i çok g
 - Ticaret merkezi (Bağdat Caddesi, alışveriş bölgeleri)
 - Endüstriyel faaliyetler
 - Ulaştırma düğümü (hemen hemen tüm otobüs hatları buradan geçer)
-![Grafik 7: En Yoğun 10 Hat](grafik_analizi/7_top10_hat.png)
-
 
 **Coğrafi İmpleme:**
 Bakırköy'ün bu kadar yoğun olması, şehir planlama açısından bir risk de oluşturabilir. Eğer Bakırköy sisteminin bir kısmı çökerse, tüm şehir etkilenir.
@@ -116,7 +116,9 @@ Bakırköy'ün bu kadar yoğun olması, şehir planlama açısından bir risk de
 
 ---
 
-## Grafik 7: En Yoğun 10 Hat
+## Grafik 7: En Yoğun 10 Hat,
+
+![Grafik 7: En Yoğun 10 Hat](grafik_analizi/7_top10_hat.png)
 
 Hat bazında analiz yapılmıştır. 34 numaralı otobüs açık farkla birinci (3.64M).
 
@@ -125,8 +127,6 @@ Muhtemelen:
 - Uzun mesafe hatı (Anadolu Yakası ↔ Avrupa Yakası)
 - Ana arterlerden birini takip ediyor
 - Yüksek frekans (sık seferler)
-
-![Grafik 8: Bilet Türü Dağılımı](grafik_analizi/8_bilet_turu.png)
 
 **Marmaray'ın 2. sırada olması:**
 Tren taşımacılığının İstanbul'da ne kadar önemli olduğunun kanıtı. Boğaziçi altından geçen bu hatt, bir başyapıttır.
@@ -139,8 +139,8 @@ Farklı hatların farklı yoğunlukları (M2 > M1 > M5) ilginç bir desendir ve 
 ---
 
 ## Grafik 8: Bilet Türü Dağılımı
-![Grafik 9: Transfer Türü Dağılımı](grafik_analizi/9_transfer_turu.png)
 
+![Grafik 8: Bilet Türü Dağılımı](grafik_analizi/8_bilet_turu.png)
 
 Üst 8 bilet türü gösterilmektedir. TAM ve İNDİRİMLİ neredeyse eşit orana sahiptir.
 
@@ -155,7 +155,7 @@ Farklı hatların farklı yoğunlukları (M2 > M1 > M5) ilginç bir desendir ve 
 
 ## Grafik 9: Transfer Türü Dağılımı
 
-![Grafik 10: Günlük Yolcu Trendi](grafik_analizi/10_gunluk_trend.png)
+![Grafik 9: Transfer Türü Dağılımı](grafik_analizi/9_transfer_turu.png)
 
 Pie chart ile %89 normal (direkt), %11 aktarma gösterilmektedir.
 
@@ -172,8 +172,8 @@ Aktarma oranının düşük olması, şehir planlama açısından başarıdır.
 ---
 
 ## Grafik 10: Günlük Yolcu Trendi
-![Grafik 11: Saatlik Taşımacılık Dağılımı](grafik_analizi/11_saatlik_tasimacilim_dagilimi.png)
 
+![Grafik 10: Günlük Yolcu Trendi](grafik_analizi/10_gunluk_trend.png)
 
 Kırmızı çizgi gün gün yolcu sayısını göstermektedir. Keskin bir düşüş görülmektedir.
 
@@ -185,8 +185,6 @@ Kırmızı çizgi gün gün yolcu sayısını göstermektedir. Keskin bir düş�
 3. Tur programı tamamlı (tur sonuna doğru gidiş artık azalıyor?)
 
 **Önemli:** Bu trend, şehrin normal durumunu temsil etmeyebilir. Tam ayın verisi gerekebilir.
-![Grafik 12: İşlem Türü Dağılımı](grafik_analizi/12_islem_turu.png)
-
 
 **Yorum:** Veri analiz edilirken bu anomali hesaba katılmalı ve istatistiksel testler uygulanmalıdır.
 
@@ -194,11 +192,11 @@ Kırmızı çizgi gün gün yolcu sayısını göstermektedir. Keskin bir düş�
 
 ## Grafik 11: Saatlik Taşımacılık Dağılımı (Stacked Bar)
 
+![Grafik 11: Saatlik Taşımacılık Dağılımı](grafik_analizi/11_saatlik_tasimacilim_dagilimi.png)
+
 Her saatin hangi taşımacılık türlerinin ne kadar kullanıldığını göstermektedir. Renkler farklı türleri temsil eder.
 
 **Gözlem:**
-![Grafik 13: Saatlik Ortalama](grafik_analizi/13_saatlik_ortalama.png)
-
 - Sabah: Raylı sistem oranı yüksek
 - Gün ortası: Otobüs oranı artıyor
 - Akşam: Karışık dağılım
@@ -209,12 +207,12 @@ Her saatin hangi taşımacılık türlerinin ne kadar kullanıldığını göste
 
 ## Grafik 12: İşlem Türü Dağılımı
 
+![Grafik 12: İşlem Türü Dağılımı](grafik_analizi/12_islem_turu.png)
+
 En üstte 8 işlem türü vardır. "Tam Kontur", "İndirimli Abonman" ve "Ücretsiz" ana kategorilerdir.
 
 **Bilet Türü vs İşlem Türü farkı:**
 - Bilet Türü: Hangi GROUP (Tam, İndirimli, Ücretsiz)
-![Grafik 14: Gün x Saat Haritası](grafik_analizi/14_gun_saat_haritasi.png)
-
 - İşlem Türü: Hangi KART TYPE (Abonman, Kontur, Aktarma)
 
 **Yorum:** Abonman satışı yapıp, kontur (tek yolculuk) hizmetini de vermek sistemin esnekliğini göstermektedir.
@@ -222,6 +220,8 @@ En üstte 8 işlem türü vardır. "Tam Kontur", "İndirimli Abonman" ve "Ücret
 ---
 
 ## Grafik 13: Saatlik Ortalama ± Standart Sapma
+
+![Grafik 13: Saatlik Ortalama](grafik_analizi/13_saatlik_ortalama.png)
 
 Error bar grafiği, her saatin ortalamasını (nokta) ve standart sapmasını (çubuk) göstermektedir.
 
@@ -231,11 +231,12 @@ Error bar grafiği, her saatin ortalamasını (nokta) ve standart sapmasını (�
 **Gözlem:**
 - Sabah ve akşam saatler dar çubuklu (tutarlı)
 - Gece saatleri geniş çubuklu (değişken)
-![Grafik 15: Standart Sapma Analizi](grafik_analizi/15_standart_sapma.png)
 
 Bu grafik saatlik trafik tahmini için kullanılabilir.
 
 ## Grafik 14: Gün × Saat Isı Haritası
+
+![Grafik 14: Gün x Saat Haritası](grafik_analizi/14_gun_saat_haritasi.png)
 
 24x7 bir ızgara, her gün ve saatin kombinasyonunu göstermektedir. Bu en detaylı grafiktir.
 
@@ -254,6 +255,8 @@ Grafiği satır satır veya sütun sütun incelemek mümkündür:
 ---
 
 ## Grafik 15: Standart Sapma ile Güvenilirlik Analizi
+
+![Grafik 15: Standart Sapma Analizi](grafik_analizi/15_standart_sapma.png)
 
 Bu grafik (13 ile benzer ama daha detaylı) saatlik trafik tahmini için kullanılabilir.
 
