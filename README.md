@@ -297,6 +297,6 @@ Bu grafik, haftalık planlama ve taşıma kapasitesi planlaması için kullanıl
 
 ---
 
-**Proje Sahibi**: YBS Öğrencisi  
+**Proje Sahibi**: Sefa Sekmen
 **Tarih**: Ocak 2026  
 **Veri Kaynak**: İstanbul Açık Veri Portalı
