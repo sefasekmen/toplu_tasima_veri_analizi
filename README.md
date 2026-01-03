@@ -41,7 +41,7 @@ Gece yarısı (00:00-06:00) tüm sistem içerisinde en az yoğun dönemdir. Öze
 - **Hafta Sonu Ort.**: 10 yolcu/saat
 - **Fark**: -12.9%
 
-Beklenmedik şekilde **hafta sonu trafik hafta içinden %12.9 daha azdır**. Bu, weekendlerde insanların ya daha az hareket ettiklerini ya da özel araç kullanmayı tercih ettiklerini gösterebilir.
+Beklenmedik şekilde **hafta sonu trafik hafta içinden %12.9 daha azdır**. Bu, haftasonları insanların ya daha az hareket ettiklerini ya da özel araç kullanmayı tercih ettiklerini gösterebilir.
 
 #### Günlük Dağılım
 - **En yoğun gün**: Pazar (7.056.846 yolcu)
@@ -63,7 +63,7 @@ Pazar tek başına yüksek sayıda veri noktasına sahip (diğer günler 2-3 gü
 
 ---
 
-### 3. TAŞIMACILIM TÜRÜ ANALİZİ
+### 3. TAŞIMACILIK TÜRÜ ANALİZİ
 
 İstanbul toplu taşıma sistemi üç ana türden oluşmaktadır:
 
@@ -84,7 +84,7 @@ Otobüsler İstanbul taşımacılığının **omurgasını** oluşturmaktadır. 
 Raylı sistem %43.5 pay ile ikinci sırada yer almaktadır. Metro ve Marmaray gibi raylı ulaşımlar:
 
 1. **Hız avantajı**: Otobüslerden çok daha hızlıdır
-2. **Puantualiite**: Trafik etkileyen harici faktörlere maruz kalmaz
+2. **Puantualite**: Trafik etkileyen harici faktörlere maruz kalmaz
 3. **Yüksek kapasitesi**: Özellikle ana koridorlarda yoğun trafik taşıyabilir
 
 Raylı sistem payının %43.5 olması, İstanbul'un modern toplu taşıma altyapısına sahip bir metropol olduğunu göstermektedir.
@@ -169,7 +169,7 @@ M2 (5.7%), M1 (4.8%), M5 (4.2%), M4 (4.0%) ve M7 (3.2%) sırası ile diğer ana 
 3. **Transfer merkezi**: Bazı istasyonlar transfer düğümü olarak önemlidir (Taksim, Sultanhamam vb)
 
 #### Tramvay Hatları
-T1 tramvayı (4.9%), turizm rotasıyla da bilinir (Sultanhamam-Zeytinburnu). Merkezde seyreden bu hatt, turist ve yerel kullanıcılara hizmet vermektedir.
+T1 tramvayı (4.9%), turizm rotasıyla da bilinir (Sultanhamam-Zeytinburnu). Merkezde seyreden bu hat, turist ve yerel kullanıcılara hizmet vermektedir.
 
 **Grafik 7 (Bar Chart - Top 10 Hat):** Hangi hatların en popüler olduğu gösterilmektedir. 34 otobüsü ve Marmaray'ın açık farkla öne çıktığı görülmektedir.
 
