@@ -91,6 +91,6 @@ Not: CSV ve PNG dosyaları `.gitignore` içinde olduğu için yüklenmeyecektir.
 
 ---
 
-**Hazırlayan**: YBS Öğrencisi
+**Hazırlayan**: Sefa Sekmen
 **Proje Tarihi**: Ocak 2026
 **Veri Kaynağı**: İstanbul Açık Veri Portalı
