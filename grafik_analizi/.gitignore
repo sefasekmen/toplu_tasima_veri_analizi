@@ -1,0 +1,29 @@
+# CSV dosyaları (çok büyük olabilir)
+*.csv
+
+# Python cache ve egg dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Grafik dosyaları (çok büyük olabilir)
+*.png
+*.jpg
+*.jpeg
+
+# IDE ayarları
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS dosyaları
+.DS_Store
+Thumbs.db
+
+# Virtual environment
+venv/
+env/
