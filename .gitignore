@@ -9,8 +9,7 @@ __pycache__/
 dist/
 build/
 
-# Grafik dosyaları (çok büyük olabilir)
-
+# Grafik dosyaları
 *.jpg
 *.jpeg
 
