@@ -52,7 +52,7 @@ Daire grafiği üçün taşımacılık türünün oransal dağılımını göste
 
 **Teknik Not:** Percentages otomatik hesaplanmaktadır ve toplamı %100'ü geçmemelidir (ama yuvarlama hataları 99.9-100.1 arasında olabilir).
 
-**Yorum:** İstanbul'un toplu taşıması otobüs ve raylı sistem arasında belki de ideale yakın bir denge içindedir. Deniz taşımacılığı nişe bir hizmettir ve buna uygun pay aldığını söyleyebiliriz.
+**Yorum:** İstanbul'un toplu taşıması otobüs ve raylı sistem arasında belki de ideale yakın bir denge içindedir. Deniz taşımacılığı niş bir hizmettir ve buna uygun pay aldığını söyleyebiliriz.
 
 ---
 
@@ -212,8 +212,8 @@ Her saatin hangi taşımacılık türlerinin ne kadar kullanıldığını göste
 En üstte 8 işlem türü vardır. "Tam Kontur", "İndirimli Abonman" ve "Ücretsiz" ana kategorilerdir.
 
 **Bilet Türü vs İşlem Türü farkı:**
-- Bilet Türü: Hangi GROUP (Tam, İndirimli, Ücretsiz)
-- İşlem Türü: Hangi KART TYPE (Abonman, Kontur, Aktarma)
+- Bilet Türü: Hangi grup (Tam, İndirimli, Ücretsiz)
+- İşlem Türü: Hangi kart tipi (Abonman, Kontur, Aktarma)
 
 **Yorum:** Abonman satışı yapıp, kontur (tek yolculuk) hizmetini de vermek sistemin esnekliğini göstermektedir.
 
@@ -225,7 +225,7 @@ En üstte 8 işlem türü vardır. "Tam Kontur", "İndirimli Abonman" ve "Ücret
 
 Error bar grafiği, her saatin ortalamasını (nokta) ve standart sapmasını (çubuk) göstermektedir.
 
-**Geniş çubuk = Variabilite yüksek:** O saatte yolcu sayısı günler arasında çok farklı  
+**Geniş çubuk = Değişken:** O saatte yolcu sayısı günler arasında çok farklı  
 **Dar çubuk = Tutarlı:** O saatte her gün benzer yolcu sayısı
 
 **Gözlem:**
@@ -275,5 +275,3 @@ Eğer saat 08:00'de ortalama 3M yolcu ± 500K ise, makul bir tahminin 2.5M - 3.5
 5. **Veri 10 Eylül'de kesintiye uğramış görülmektedir - tam analiz için tam ayın verisi gereklidir**
 
 ---
-
-*Bu analiz raporu, bir YBS öğrencisi tarafından eğitim amaçlı hazırlanmıştır.*
