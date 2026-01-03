@@ -10,7 +10,7 @@ dist/
 build/
 
 # Grafik dosyaları (çok büyük olabilir)
-*.png
+
 *.jpg
 *.jpeg
 
